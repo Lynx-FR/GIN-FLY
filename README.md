@@ -1,5 +1,5 @@
 # GIN-FLY
-GIN-FLY (Getting Info of Network Free, Light, and Yours) is an open source network analyser tool written in Python, you can look, change, and redistribute the code freely.
+GIN-FLY (Getting Info of Network Free, Light, and Yours) is an open source network analyser tool written in Python, you can look, change, and redistribute the code freely (GIN-FLY is also reffered as G-FLY).
 
 **DISCLAMER** 
 
