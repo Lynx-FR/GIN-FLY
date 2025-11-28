@@ -5,4 +5,4 @@ GIN-FLY (Getting Info of Network Free, Light, and Yours) is an open source netwo
 
 Always use G-FLY on authorized networks or else you could face legal trouble and fines; use it at your **OWN** risk.
 
-Note that the program is written for Linux but whit some modification it should also works on macOS and BSDs  **HOWEVER** G-FLY does **NOT** works whit any version of Windows.
+Note that the program is written for Linux but with some modification it should also works on macOS and BSDs  **HOWEVER** G-FLY does **NOT** works with any version of Windows.
